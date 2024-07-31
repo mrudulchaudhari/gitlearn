@@ -37,7 +37,7 @@
 ### >>>git reset - for multiple files
 
 ### For committed change (for one commit)
-### >>>git reset HEAD~1 -> by default the latest commit is known as HEAD~1
+### >>>git reset HEAD~1 -> by default the latest commit is known as <HEAD~1>
 
 ### >>>git log -> shows all past commits
 
@@ -48,6 +48,7 @@
 ## FORK
 ### new repo that shares code - it is a rough copy
 ### The fork is supposed to help developers in Open Source creating a repo from other Open Source repo and adding their contributions
+### This is supposed to be the last line on the README file.
 
 
 
