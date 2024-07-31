@@ -37,7 +37,7 @@
 ### >>>git reset - for multiple files
 
 ### For committed change (for one commit)
-### >>>git reset HEAD~1 -> by default the latest commit is known as <HEAD~1>
+### >>>git reset HEAD~1 -> by default the latest commit is known as HEAD1
 
 ### >>>git log -> shows all past commits
 
